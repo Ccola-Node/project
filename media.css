@@ -1,0 +1,57 @@
+
+
+
+
+ @media (max-width:425px) {
+     .header .sup{
+        letter-spacing:0px;
+        font-size: 30px;  
+     }
+
+     .header .sub{
+       
+        letter-spacing:1px;
+        font-size: 25px;
+        font-weight: normal;
+        margin-top: 2px;
+        
+ }
+
+ .header .btn{
+     font-size: 12px;
+     letter-spacing: 0px;
+   margin-top: 5px;
+ }
+
+}
+
+
+
+
+@media (max-width:320px) {
+    .header .sup{
+        letter-spacing:0px;
+        font-size: 25px;  
+     }
+}
+
+
+@media (max-width:425px) {
+ .imagex .linear{
+      font-size: 1.5rem;
+  }
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
